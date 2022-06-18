@@ -1,0 +1,37 @@
+id: IDBD47A4E
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:02:53.093008'
+last_modified: '2022-06-18T20:02:53.093026'
+parser: null
+source_metadata:
+  title: (block print), colophon excerpt
+  author: karma phrin las pa/
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-07-23); revision in process, thematic TEI
+    markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:blo bzang rgyal mtshan/ (Dharamsala) (lg)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:blo bzang rgyal mtshan/ (Dharamsala) (lg)
+  text_witnesses: https://sakyaresearch.org/sources/1891
+  bases:
+    dd5b:
+      title: (block print), colophon excerpt
+      order: 1
+      base_file: dd5b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
